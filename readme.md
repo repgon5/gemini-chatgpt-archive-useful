@@ -10,7 +10,9 @@ Markdown files, with ToC and tags to quickly search through.
 
 
 # Visual drawing
+something like Excalidraw but can draw directly over your Obsidan document
 
 # Tagging
 
 # teams
+later, a website you can publish to Digital Ocean with all your highlights, TOC, and sketch over page. similar in layout to Obsidan or Docasaurs or
